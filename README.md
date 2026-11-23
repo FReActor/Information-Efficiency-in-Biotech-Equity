@@ -44,13 +44,6 @@ Median values. p-values are empirical, obtained by resampling the placebo
 distribution at the real sample size. Two-sided, Bonferroni-corrected
 across three primary tests (threshold 0.0167).
 
-## AI assistance
-
-Code was developed with AI assistance. Event classification used the
-Anthropic API (`claude-haiku-4-5-20251001`) and was validated against
-hand-labelled ground truth. All methodological choices, parameter 
-selections, and interpretations are the author's.
-
 ---
 
 ## Author
